@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali osama
-=================================================================================================================================
+<h1 align='center'>
+   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+</h1>
 
-I'm a passionate software developer, primarily focused on C++, Python and java with interests in algorithm optimization and security applications.
+I'm a passionate software developer, primarily focused on C++, Python and java with interests in problem solving & algorithm optimization.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-\## 🚀 About Me
+\## 🚀 About Me 
 - 🎓 Student at Faculty of Computers & Artificial intelligence Cairo University.
 - 🌱 Learning advanced data processing algorithms.
 - ⚡ Fun fact: I'm fascinated by binary number systems and their use in computing!
