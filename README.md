@@ -5,7 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a passionate software developer, primarily focused on C++, Python and java with interests in algorithm optimization and security applications.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-\## 🚀 About Me - 🎓 Student at Faculty of Computers & Artificial intelligence Cairo University. - 🌱 Learning advanced data processing algorithms. - ⚡ Fun fact: I'm fascinated by binary number systems and their use in computing! !\[Chess GIF\](https://github.com/ali-osama155/ali-osama155/blob/main/animation.gif)
+\## 🚀 About Me
+- 🎓 Student at Faculty of Computers & Artificial intelligence Cairo University.
+- 🌱 Learning advanced data processing algorithms.
+- ⚡ Fun fact: I'm fascinated by binary number systems and their use in computing!
+- !\[Chess GIF\](https://github.com/ali-osama155/ali-osama155/blob/main/animation.gif)
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ali155osama@gmail.com](mailto:ali155osama@gmail.com)
