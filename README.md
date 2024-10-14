@@ -6,7 +6,9 @@
 </h1>
 
 <p align="center">
+   
 I'm a passionate `software developer`, primarily focused on `C++`, `Python` and `java` with interests in `problem solving` & `algorithm optimization`.
+
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
