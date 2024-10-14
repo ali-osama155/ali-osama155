@@ -5,11 +5,11 @@
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
-<p align="center">
-   
-I'm a passionate `software developer`, primarily focused on `C++`, `Python` and `java` with interests in `problem solving` & `algorithm optimization`.
-
-</p>
+<div align="center">
+   <p>I'm a passionate in software development,</p>
+   <p>primarily focused on C++, Python and java as a programming language</p>
+   <p>interested in problem solving & algorithm optimization.</p>
+</div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
