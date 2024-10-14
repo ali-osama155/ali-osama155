@@ -1,9 +1,8 @@
-<img src="https://images.app.goo.gl/1wmiDfEPW52K6q118" width="100%" />
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student -_-;Problem Solver on Leetcode;Trying not to be a homless with CS degree 😃;" alt="Typing SVG" /></a>
 </p>
 <h1 align='center'>
-Hi there <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9neTZpams1dmh2N2hvOWl4MnF1Y2U2bWh1MWczYTE5bWJmZDJldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp)" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
 
@@ -14,10 +13,14 @@ I'm a passionate software developer, primarily focused on C++, Python and java w
 - 🎓 Student at Faculty of Computers & Artificial intelligence Cairo University.
 - 🌱 Learning advanced data processing algorithms.
 - ⚡ Fun fact: I'm fascinated by binary number systems and their use in computing!
-- !\[Chess GIF\](https://github.com/ali-osama155/ali-osama155/blob/main/animation.gif)
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ali155osama@gmail.com](mailto:ali155osama@gmail.com)
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXA2MDVwcHk2dTh3d3hqOW1taWQxbGdidDYwNzhnOGY4bW9hZHYyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" style="width: 300px; height: 300px; margin-right: 10px;" />
+    <img src="https://github.com/ali-osama155/ali-osama155/blob/main/animation.gif" style="width: 300px; height: 300px;" />
+</div>
 
 ### Skills
 
