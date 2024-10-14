@@ -1,9 +1,9 @@
 <img src="https://images.app.goo.gl/1wmiDfEPW52K6q118" width="100%" />
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student -_-;Problem Solver on Leetcode;trying not to be homless with cs degree 😃;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student -_-;Problem Solver on Leetcode;Trying not to be a homless with CS degree 😃;" alt="Typing SVG" /></a>
 </p>
 <h1 align='center'>
-   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+Hi there <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9neTZpams1dmh2N2hvOWl4MnF1Y2U2bWh1MWczYTE5bWJmZDJldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp)" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
 
