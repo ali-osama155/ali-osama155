@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://images.app.goo.gl/1wmiDfEPW52K6q118" width="100%" />
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student;Junior FrontEnd Developer;Problem Solver on Codeforces and Leetcode;A Competitions Contributer on Kaggle;Always+learning+new+things;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student -_-;Problem Solver on Leetcode;trying not to be homless with cs degree 😃;" alt="Typing SVG" /></a>
 </p>
-
 <h1 align='center'>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
