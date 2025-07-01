@@ -1,6 +1,7 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student -_-;Problem Solver on Leetcode;Trying not to be a homless with CS degree 😃;" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&width=600&lines=FCAI+Cairo+University+Student+-_-;Problem+Solver+on+Leetcode;Trying+not+to+be+a+homeless+with+CS+degree+%F0%9F%98%83;" alt="Typing SVG" />
 </p>
+
 <h1 align='center'>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
