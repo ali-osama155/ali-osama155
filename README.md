@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&width=600&lines=FCAI+Cairo+University+Student+-_-;Problem+Solver+on+Leetcode;Trying+not+to+be+a+homeless+with+CS+degree+%F0%9F%98%83;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A306D2&center=true&vCenter=true&width=700&lines=FCAI+Cairo+University+Student+-_-;Problem+Solver+on+Leetcode;Trying+not+to+be+a+homeless+with+CS+degree+%F0%9F%98%83;Exploring+Machine+Learning+and+AI+Applications" alt="Typing SVG" />
 </p>
-
 <h1 align='center'>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali Osama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
 <div align="center">
-   <p>I'm a passionate in software development,</p>
+   <p>I'm a passionate in software development and ML,</p>
    <p>primarily focused on C++, Python and java as a programming language</p>
    <p>interested in problem solving & algorithm optimization.</p>
 </div>
@@ -16,7 +15,7 @@
 
 # 🚀 About Me 
 - 🎓 Student at Faculty of Computers & Artificial intelligence Cairo University.
-- 🌱 Learning advanced `Data processing` algorithms.
+- 🌱 Learning ML&DL (AI career in progress).
 - ⚡ Fun fact: I'm fascinated by `Binary number` systems and their use in computing!
 * 🌍  I'm based in `Egypt`
 * ✉️  You can contact me at [ali155osama@gmail.com](mailto:ali155osama@gmail.com)
