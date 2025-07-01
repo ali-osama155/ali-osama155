@@ -7,7 +7,7 @@
 
 <div align="center">
    <p>I'm a passionate in software development and ML,</p>
-   <p>primarily focused on C++, Python and java as a programming language</p>
+   <p>primarily focused on C++, Python and java as a programming language,</p>
    <p>interested in problem solving & algorithm optimization.</p>
 </div>
 
