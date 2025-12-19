@@ -17,7 +17,6 @@
 - 🎓 Student at Faculty of Computers & Artificial intelligence Cairo University.
 - 🌱 Learning ML&DL (AI career in progress).
 - ⚡ Fun fact: I'm fascinated by `Binary number` systems and their use in computing!
-* 🌍  I'm based in `Egypt`
 * ✉️  You can contact me at [ali155osama@gmail.com](mailto:ali155osama@gmail.com)
 
 <div style="display: flex; justify-content: center;" align = "center">
